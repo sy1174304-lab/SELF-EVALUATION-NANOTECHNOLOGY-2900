@@ -1,5 +1,5 @@
 # Omega-V39-Immortal-Baseline
-Public Baseline for Revolutionary Nanotechnology Logic. 10,000x Core Proprietary. Valuation: $250M.
+Public Baseline for Revolutionary Nanotechnology Logic. 10,000x Core Proprietary. Valuation: $10M.
 # Omega V39: Immortal Nanotech Framework
 
 ### 📜 What is this Framework?
