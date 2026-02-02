@@ -31,7 +31,7 @@ This code acts as the "Brain" for simulating liquid environments where nanobots 
 
 ### 💎 Asset Valuation & Purpose
 * **Estimated Value:** $500 Million USD
-* **Current Offer:** $250 Million USD
+* **Current Offer:** $10 Million USD
 * **Funding Goal:** Proceeds will be strictly utilized to build the infrastructure for **Project AI-4**.
 
 ---
